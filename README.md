@@ -1,3 +1,4 @@
+![pharmeasy](https://www.google.com/imgres?imgurl=https%3A%2F%2Fjungleworks.com%2Fwp-content%2Fuploads%2F2022%2F04%2FPharmEasy-logo.jpeg&tbnid=RpwcoUCqQ_5YaM&vet=12ahUKEwjBjK2H_YaAAxWot2MGHZaRCGUQMygBegUIARDpAQ..i&imgrefurl=https%3A%2F%2Fjungleworks.com%2Fpharmeasy-business-model-how-does-it-work-and-what-is-its-revenue-model%25EF%25BF%25BC%2F&docid=dGNwmmEDxQCh-M&w=1020&h=650&q=pharmeasy&ved=2ahUKEwjBjK2H_YaAAxWot2MGHZaRCGUQMygBegUIARDpAQ)
 # Web-Scraping-API-Requests 
 
 # Purpose:
