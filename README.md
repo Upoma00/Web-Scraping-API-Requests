@@ -1,6 +1,6 @@
 
-# ![images](https://github.com/Upoma00/Web-Scraping-API-Requests/assets/135132229/970dbfd0-78e4-444f-89f3-126417554ad7)
-raping-API-Requests 
+![pharmeasy-thyrocare-1](https://github.com/Upoma00/Web-Scraping-API-Requests/assets/135132229/7e9a345f-b179-47d0-b410-d970687341e8)
+
 
 # Purpose:
 This project aims to extract data from a website and save it in a structured format for further analysis.
