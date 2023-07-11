@@ -1,5 +1,5 @@
 
-# Web-Sc![images](https://github.com/Upoma00/Web-Scraping-API-Requests/assets/135132229/970dbfd0-78e4-444f-89f3-126417554ad7)
+# ![images](https://github.com/Upoma00/Web-Scraping-API-Requests/assets/135132229/970dbfd0-78e4-444f-89f3-126417554ad7)
 raping-API-Requests 
 
 # Purpose:
